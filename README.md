@@ -3,10 +3,13 @@ MABSlider (swift)
 
 A customized slider for OSX using png images written in swift.
 
+<<<<<<< HEAD
 ## ScreenShot
 
 ![MABSlider](SS.jpg)
 
+=======
+>>>>>>> FETCH_HEAD
 ## Install
 - Drag "MABNSSLider.swift" to your Xcode project. 
 
@@ -89,4 +92,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> FETCH_HEAD
