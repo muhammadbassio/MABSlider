@@ -6,10 +6,8 @@ A customized slider for OSX using png images written in swift.
 <<<<<<< HEAD
 ## ScreenShot
 
-![MABSlider](SS.jpg)
+![MABSlider](/SS.png)
 
-=======
->>>>>>> FETCH_HEAD
 ## Install
 - Drag "MABNSSLider.swift" to your Xcode project. 
 
