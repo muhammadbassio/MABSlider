@@ -36,9 +36,10 @@ func applicationDidFinishLaunching(aNotification: NSNotification) {
 
 ## Using Code
 
+Edit your appdelegate as below:
+
 ```
 var slider:MABSlider!
-  @IBOutlet var slider2: MABSlider!
 
 
   func applicationDidFinishLaunching(aNotification: NSNotification) {
