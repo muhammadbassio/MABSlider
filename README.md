@@ -3,7 +3,6 @@ MABSlider (swift)
 
 A customized slider for OSX using png images written in swift.
 
-<<<<<<< HEAD
 ## ScreenShot
 
 ![MABSlider](/SS.png)
