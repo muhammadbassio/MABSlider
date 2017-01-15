@@ -196,9 +196,11 @@
 				TargetAttributes = {
 					8E153EE91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
+						LastSwiftMigration = 0820;
 					};
 					8E153EF91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
+						LastSwiftMigration = 0820;
 						TestTargetID = 8E153EE91A1D28A80084B766;
 					};
 				};
@@ -376,6 +378,7 @@
 				INFOPLIST_FILE = CustomSlider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -387,6 +390,7 @@
 				INFOPLIST_FILE = CustomSlider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -406,6 +410,7 @@
 				INFOPLIST_FILE = CustomSliderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Debug;
@@ -422,6 +427,7 @@
 				INFOPLIST_FILE = CustomSliderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Release;
@@ -445,6 +451,7 @@
 				8E153F061A1D28A80084B766 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8E153F071A1D28A80084B766 /* Build configuration list for PBXNativeTarget "CustomSliderTests" */ = {
 			isa = XCConfigurationList;
@@ -453,6 +460,7 @@
 				8E153F091A1D28A80084B766 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -16,25 +16,25 @@ class AppDelegate: NSObject, NSApplicationDelegate {
   @IBOutlet var slider2: MABSlider!
 
 
-  func applicationDidFinishLaunching(aNotification: NSNotification) {
+  func applicationDidFinishLaunching(_ aNotification: Notification) {
     // Insert code here to initialize your application
     
     slider = MABSlider(knob: NSImage(named: "knob")!, barFill: NSImage(named: "fill")!, barFillBeforeKnob: NSImage(named: "beforeknob")!, barLeftAge: NSImage(named: "leftage")!, barRightAge: NSImage(named: "rightage")!);
     slider.frame = NSMakeRect(20, 20, 200, 21);
-    slider.action = "sliderChanged"
+    slider.action = #selector(AppDelegate.sliderChanged)
     
-    slider2.setKnobImage(NSImage(named: "knob")!)
-    slider2.setBarFillImage(NSImage(named: "fill")!)
-    slider2.setBarFillBeforeKnobImage(NSImage(named: "beforeknob")!)
-    slider2.setBarLeftAgeImage(NSImage(named: "leftage")!)
-    slider2.setBarRightAgeImage(NSImage(named: "rightage")!)
-    slider2.action = "slider2Changed"
+    slider2.setKnobImage(image: NSImage(named: "knob")!)
+    slider2.setBarFillImage(image: NSImage(named: "fill")!)
+    slider2.setBarFillBeforeKnobImage(image: NSImage(named: "beforeknob")!)
+    slider2.setBarLeftAgeImage(image: NSImage(named: "leftage")!)
+    slider2.setBarRightAgeImage(image: NSImage(named: "rightage")!)
+    slider2.action = #selector(AppDelegate.slider2Changed)
     
     window.contentView?.addSubview(slider);
     
   }
 
-  func applicationWillTerminate(aNotification: NSNotification) {
+  func applicationWillTerminate(_ aNotification: Notification) {
     // Insert code here to tear down your application
   }
   
