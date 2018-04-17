@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08F670EB208608CC00B5F22A /* MABNSSLider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08F670DF208608CC00B5F22A /* MABNSSLider.swift */; };
+		08F670EC208608CC00B5F22A /* rightage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E1208608CC00B5F22A /* rightage@2x.png */; };
+		08F670ED208608CC00B5F22A /* beforeknob.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E2208608CC00B5F22A /* beforeknob.png */; };
+		08F670EE208608CC00B5F22A /* leftage.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E3208608CC00B5F22A /* leftage.png */; };
+		08F670EF208608CD00B5F22A /* beforeknob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E4208608CC00B5F22A /* beforeknob@2x.png */; };
+		08F670F0208608CD00B5F22A /* fill@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E5208608CC00B5F22A /* fill@2x.png */; };
+		08F670F1208608CD00B5F22A /* leftage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E6208608CC00B5F22A /* leftage@2x.png */; };
+		08F670F2208608CD00B5F22A /* knob.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E7208608CC00B5F22A /* knob.png */; };
+		08F670F3208608CD00B5F22A /* knob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E8208608CC00B5F22A /* knob@2x.png */; };
+		08F670F4208608CD00B5F22A /* fill.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670E9208608CC00B5F22A /* fill.png */; };
+		08F670F5208608CD00B5F22A /* rightage.png in Resources */ = {isa = PBXBuildFile; fileRef = 08F670EA208608CC00B5F22A /* rightage.png */; };
 		8E153EF01A1D28A80084B766 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E153EEF1A1D28A80084B766 /* AppDelegate.swift */; };
 		8E153EF21A1D28A80084B766 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E153EF11A1D28A80084B766 /* Images.xcassets */; };
 		8E153EF51A1D28A80084B766 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E153EF31A1D28A80084B766 /* MainMenu.xib */; };
 		8E153F011A1D28A80084B766 /* CustomSliderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E153F001A1D28A80084B766 /* CustomSliderTests.swift */; };
-		8E153F0B1A1D28CD0084B766 /* MABNSSLider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E153F0A1A1D28CD0084B766 /* MABNSSLider.swift */; };
-		8E153F171A1D2A260084B766 /* beforeknob.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F0D1A1D2A260084B766 /* beforeknob.png */; };
-		8E153F181A1D2A260084B766 /* beforeknob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F0E1A1D2A260084B766 /* beforeknob@2x.png */; };
-		8E153F191A1D2A260084B766 /* fill.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F0F1A1D2A260084B766 /* fill.png */; };
-		8E153F1A1A1D2A260084B766 /* fill@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F101A1D2A260084B766 /* fill@2x.png */; };
-		8E153F1B1A1D2A260084B766 /* knob.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F111A1D2A260084B766 /* knob.png */; };
-		8E153F1C1A1D2A260084B766 /* knob@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F121A1D2A260084B766 /* knob@2x.png */; };
-		8E153F1D1A1D2A260084B766 /* leftage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F131A1D2A260084B766 /* leftage.png */; };
-		8E153F1E1A1D2A260084B766 /* leftage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F141A1D2A260084B766 /* leftage@2x.png */; };
-		8E153F1F1A1D2A260084B766 /* rightage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F151A1D2A260084B766 /* rightage.png */; };
-		8E153F201A1D2A260084B766 /* rightage@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8E153F161A1D2A260084B766 /* rightage@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +35,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08F670DF208608CC00B5F22A /* MABNSSLider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MABNSSLider.swift; sourceTree = "<group>"; };
+		08F670E1208608CC00B5F22A /* rightage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rightage@2x.png"; sourceTree = "<group>"; };
+		08F670E2208608CC00B5F22A /* beforeknob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beforeknob.png; sourceTree = "<group>"; };
+		08F670E3208608CC00B5F22A /* leftage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftage.png; sourceTree = "<group>"; };
+		08F670E4208608CC00B5F22A /* beforeknob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beforeknob@2x.png"; sourceTree = "<group>"; };
+		08F670E5208608CC00B5F22A /* fill@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fill@2x.png"; sourceTree = "<group>"; };
+		08F670E6208608CC00B5F22A /* leftage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "leftage@2x.png"; sourceTree = "<group>"; };
+		08F670E7208608CC00B5F22A /* knob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = knob.png; sourceTree = "<group>"; };
+		08F670E8208608CC00B5F22A /* knob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "knob@2x.png"; sourceTree = "<group>"; };
+		08F670E9208608CC00B5F22A /* fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fill.png; sourceTree = "<group>"; };
+		08F670EA208608CC00B5F22A /* rightage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rightage.png; sourceTree = "<group>"; };
 		8E153EEA1A1D28A80084B766 /* CustomSlider.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomSlider.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E153EEE1A1D28A80084B766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8E153EEF1A1D28A80084B766 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,17 +54,6 @@
 		8E153EFA1A1D28A80084B766 /* CustomSliderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomSliderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E153EFF1A1D28A80084B766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8E153F001A1D28A80084B766 /* CustomSliderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSliderTests.swift; sourceTree = "<group>"; };
-		8E153F0A1A1D28CD0084B766 /* MABNSSLider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MABNSSLider.swift; sourceTree = "<group>"; };
-		8E153F0D1A1D2A260084B766 /* beforeknob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = beforeknob.png; sourceTree = "<group>"; };
-		8E153F0E1A1D2A260084B766 /* beforeknob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "beforeknob@2x.png"; sourceTree = "<group>"; };
-		8E153F0F1A1D2A260084B766 /* fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fill.png; sourceTree = "<group>"; };
-		8E153F101A1D2A260084B766 /* fill@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fill@2x.png"; sourceTree = "<group>"; };
-		8E153F111A1D2A260084B766 /* knob.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = knob.png; sourceTree = "<group>"; };
-		8E153F121A1D2A260084B766 /* knob@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "knob@2x.png"; sourceTree = "<group>"; };
-		8E153F131A1D2A260084B766 /* leftage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leftage.png; sourceTree = "<group>"; };
-		8E153F141A1D2A260084B766 /* leftage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "leftage@2x.png"; sourceTree = "<group>"; };
-		8E153F151A1D2A260084B766 /* rightage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rightage.png; sourceTree = "<group>"; };
-		8E153F161A1D2A260084B766 /* rightage@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rightage@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +74,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		08F670DE208608CC00B5F22A /* source */ = {
+			isa = PBXGroup;
+			children = (
+				08F670DF208608CC00B5F22A /* MABNSSLider.swift */,
+				08F670E0208608CC00B5F22A /* assets */,
+			);
+			path = source;
+			sourceTree = SOURCE_ROOT;
+		};
+		08F670E0208608CC00B5F22A /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				08F670E1208608CC00B5F22A /* rightage@2x.png */,
+				08F670E2208608CC00B5F22A /* beforeknob.png */,
+				08F670E3208608CC00B5F22A /* leftage.png */,
+				08F670E4208608CC00B5F22A /* beforeknob@2x.png */,
+				08F670E5208608CC00B5F22A /* fill@2x.png */,
+				08F670E6208608CC00B5F22A /* leftage@2x.png */,
+				08F670E7208608CC00B5F22A /* knob.png */,
+				08F670E8208608CC00B5F22A /* knob@2x.png */,
+				08F670E9208608CC00B5F22A /* fill.png */,
+				08F670EA208608CC00B5F22A /* rightage.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
 		8E153EE11A1D28A70084B766 = {
 			isa = PBXGroup;
 			children = (
@@ -95,9 +121,8 @@
 		8E153EEC1A1D28A80084B766 /* CustomSlider */ = {
 			isa = PBXGroup;
 			children = (
-				8E153F0C1A1D2A260084B766 /* slider */,
+				08F670DE208608CC00B5F22A /* source */,
 				8E153EEF1A1D28A80084B766 /* AppDelegate.swift */,
-				8E153F0A1A1D28CD0084B766 /* MABNSSLider.swift */,
 				8E153EF11A1D28A80084B766 /* Images.xcassets */,
 				8E153EF31A1D28A80084B766 /* MainMenu.xib */,
 				8E153EED1A1D28A80084B766 /* Supporting Files */,
@@ -128,23 +153,6 @@
 				8E153EFF1A1D28A80084B766 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		8E153F0C1A1D2A260084B766 /* slider */ = {
-			isa = PBXGroup;
-			children = (
-				8E153F0D1A1D2A260084B766 /* beforeknob.png */,
-				8E153F0E1A1D2A260084B766 /* beforeknob@2x.png */,
-				8E153F0F1A1D2A260084B766 /* fill.png */,
-				8E153F101A1D2A260084B766 /* fill@2x.png */,
-				8E153F111A1D2A260084B766 /* knob.png */,
-				8E153F121A1D2A260084B766 /* knob@2x.png */,
-				8E153F131A1D2A260084B766 /* leftage.png */,
-				8E153F141A1D2A260084B766 /* leftage@2x.png */,
-				8E153F151A1D2A260084B766 /* rightage.png */,
-				8E153F161A1D2A260084B766 /* rightage@2x.png */,
-			);
-			path = slider;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,16 +199,16 @@
 		8E153EE21A1D28A70084B766 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = "Muhammad Bassio";
 				TargetAttributes = {
 					8E153EE91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0820;
+						LastSwiftMigration = 0930;
 					};
 					8E153EF91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0820;
+						LastSwiftMigration = 0930;
 						TestTargetID = 8E153EE91A1D28A80084B766;
 					};
 				};
@@ -230,17 +238,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E153EF21A1D28A80084B766 /* Images.xcassets in Resources */,
-				8E153F1E1A1D2A260084B766 /* leftage@2x.png in Resources */,
-				8E153F191A1D2A260084B766 /* fill.png in Resources */,
-				8E153F1C1A1D2A260084B766 /* knob@2x.png in Resources */,
-				8E153F1B1A1D2A260084B766 /* knob.png in Resources */,
-				8E153F171A1D2A260084B766 /* beforeknob.png in Resources */,
-				8E153F1A1A1D2A260084B766 /* fill@2x.png in Resources */,
-				8E153F201A1D2A260084B766 /* rightage@2x.png in Resources */,
+				08F670EC208608CC00B5F22A /* rightage@2x.png in Resources */,
+				08F670F5208608CD00B5F22A /* rightage.png in Resources */,
+				08F670F2208608CD00B5F22A /* knob.png in Resources */,
+				08F670EE208608CC00B5F22A /* leftage.png in Resources */,
+				08F670F3208608CD00B5F22A /* knob@2x.png in Resources */,
+				08F670F1208608CD00B5F22A /* leftage@2x.png in Resources */,
+				08F670F4208608CD00B5F22A /* fill.png in Resources */,
+				08F670EF208608CD00B5F22A /* beforeknob@2x.png in Resources */,
+				08F670ED208608CC00B5F22A /* beforeknob.png in Resources */,
+				08F670F0208608CD00B5F22A /* fill@2x.png in Resources */,
 				8E153EF51A1D28A80084B766 /* MainMenu.xib in Resources */,
-				8E153F1D1A1D2A260084B766 /* leftage.png in Resources */,
-				8E153F1F1A1D2A260084B766 /* rightage.png in Resources */,
-				8E153F181A1D2A260084B766 /* beforeknob@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E153F0B1A1D28CD0084B766 /* MABNSSLider.swift in Sources */,
+				08F670EB208608CC00B5F22A /* MABNSSLider.swift in Sources */,
 				8E153EF01A1D28A80084B766 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -301,20 +309,32 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -343,13 +363,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGN_IDENTITY = "-";
@@ -358,6 +388,7 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -367,6 +398,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
 			};
 			name = Release;
 		};
@@ -377,8 +409,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = CustomSlider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -389,8 +423,10 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = CustomSlider/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -409,8 +445,10 @@
 				);
 				INFOPLIST_FILE = CustomSliderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Debug;
@@ -426,8 +464,10 @@
 				);
 				INFOPLIST_FILE = CustomSliderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Release;
