@@ -24,10 +24,10 @@ class Helpers {
             var points = [NSPoint](repeating: NSZeroPoint, count: 3)
             
             switch nsPath.element(at: i, associatedPoints: &points) {
-            case .moveToBezierPathElement: path.move(to: points[0])
-            case .lineToBezierPathElement: path.addLine(to: points[0])
-            case .curveToBezierPathElement: path.addCurve(to: points[0], control1: points[1], control2: points[2])
-            case .closePathBezierPathElement: path.closeSubpath()
+            case .moveTo: path.move(to: points[0])
+            case .lineTo: path.addLine(to: points[0])
+            case .curveTo: path.addCurve(to: points[0], control1: points[1], control2: points[2])
+            case .closePath: path.closeSubpath()
             didClosePath = true
             }
         }
