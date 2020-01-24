@@ -204,11 +204,11 @@
 				TargetAttributes = {
 					8E153EE91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1100;
 					};
 					8E153EF91A1D28A80084B766 = {
 						CreatedOnToolsVersion = 6.1;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1100;
 						TestTargetID = 8E153EE91A1D28A80084B766;
 					};
 				};
@@ -218,6 +218,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -412,7 +413,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -426,7 +427,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -448,7 +449,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Debug;
@@ -467,7 +468,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.muhammadbassio.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomSlider.app/Contents/MacOS/CustomSlider";
 			};
 			name = Release;
