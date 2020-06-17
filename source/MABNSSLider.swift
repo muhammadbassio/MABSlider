@@ -256,6 +256,15 @@ class MABSlider:NSSlider {
 		setBarFillBeforeKnobImage(image: NSImage(color: color, size: NSSize(width: size, height: size)))
 	}
 	
+	func setBarRightAgeColor(color: NSColor, size: Int) {
+        let cell = self.cell as! MABSliderCell
+        cell.barRightAgeImage = NSImage(color: color, size: NSSize(width: size, height: size))
+    }
+	
+	func setBarLeftAgeColor(color: NSColor, size: Int) {
+        let cell = self.cell as! MABSliderCell
+        cell.barRightAgeImage = NSImage(color: color, size: NSSize(width: size, height: size))
+    }
 	
 }
 
