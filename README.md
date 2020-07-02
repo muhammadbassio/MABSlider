@@ -19,24 +19,22 @@ A customized slider for OSX using png images written in swift.
 @IBOutlet var slider2: MABSlider!
 
 func applicationDidFinishLaunching(aNotification: NSNotification) {
-    
     slider2.setKnobImage(NSImage(named: "knob")!)
     slider2.setBarFillImage(NSImage(named: "fill")!)
     slider2.setBarFillBeforeKnobImage(NSImage(named: "beforeknob")!)
     slider2.setBarLeftAgeImage(NSImage(named: "leftage")!)
     slider2.setBarRightAgeImage(NSImage(named: "rightage")!)
-    slider2.action = "slider2Changed"
-    
-    window.contentView?.addSubview(slider);
-    
-  }
+}
   
-  func slider2Changed() {
-    // your code goes here
-    NSLog("\(slider2.floatValue)")
-  }
+@IBAction func slider2Changed(_ sender: MABSlider) {
+	// your code goes here
+	NSLog("\(slider2.floatValue)")
+}
 
 ```
+
+### Caution!
+When using a MABSlider inside a custom Cocoa class and a xib file the action is not sent. To fix go in the interface builder, select the NSSliderCell inside the MABSlider this edit the class name to be "MABSliderCell".
 
 ## Using Code
 
